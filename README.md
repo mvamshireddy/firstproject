@@ -1,3 +1,4 @@
 # firstproject
 hello
-hi
+hi 
+this is my first project on git
